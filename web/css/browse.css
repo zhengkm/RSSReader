@@ -1,0 +1,107 @@
+.bound{
+                
+                padding: 30px;
+                padding-bottom: 50px;
+                padding-top: 50px;
+                background-color: #34495E;
+                 border-radius:15px; 
+                
+            }
+#leftContent{
+	    float:left;
+	     width:340px;
+	     margin-right:10px;
+	     margin-top: 20px;
+	     }
+            #rightContent{
+	     
+             width:780px;
+	    float:left;
+            margin-top: 20px;
+		}
+            .user-desc{
+                
+                width:320px;
+                height:125px;
+                margin:0 auto;
+                
+                text-align:center;
+                  border-radius:15px; 
+                border: 3px solid #EEE;
+            }
+            .fullcontent{
+                        border-radius:15px; 
+                         padding: 5px;
+                          margin-bottom: 20px;
+                         background-color: #7F8C8D;
+                    }
+             .user-desc h1{
+                
+               padding-bottom: 10px;
+            }
+             .user-collect{
+                
+                width:320px;
+                height:200px;
+                margin:0 auto;
+                margin-top: 30px;
+                text-align:center;
+                border-top: 3px solid #cccccc;
+                
+            }
+            
+            
+            .post img{
+                
+                padding-right: 15px;
+            }
+            
+            .search{
+                margin-top: 10px;
+                border: 1px solid #EEE;
+                background-color: #EEE;
+                margin-bottom: 20px;
+                border-radius:15px;
+            }
+            .content{
+                border: 3px solid #EEE;
+                padding-left: 20px;
+                padding-right: 15px;
+                padding-bottom: 4px;
+                border-radius:15px; 
+
+                
+            }
+            .content1{
+                border-top: 3px solid #EEE;;
+                 text-align:center;
+                padding-left: 20px;
+                padding-right: 15px;
+                padding-bottom: 4px;
+                margin-bottom: 30px;
+                height: 130px;
+                
+            }
+   
+            .selectframe select  { 
+           text-indent: 10px;
+           width: 40px;
+} 
+
+            .form-control{
+                width: 100%;
+            }
+
+
+            #leftcontent1{
+             width: 600px;
+             float:left;
+
+            }
+
+            #rightcontent1{
+
+                width: 140px;
+                float:right;
+            }
+
